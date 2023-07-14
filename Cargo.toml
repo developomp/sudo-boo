@@ -1,7 +1,7 @@
 [package]
 name = "sudo-boo"
 description = "A program that scare users when running with root permission"
-version = "1.0.0"
+version = "1.0.0+4"
 edition = "2021"
 license-file = "LICENSE"
 keywords=["boo"]
