@@ -16,5 +16,5 @@ cargo install sudo-boo
 ## Usage
 
 <p align="center">
-    <img alt="program demo" src=".github/img/demo.avif"/>
+    <img alt="program demo" src=".github/img/demo.png"/>
 </p>
