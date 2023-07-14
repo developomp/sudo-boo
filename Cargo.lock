@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "boo"
+name = "sudo-boo"
 version = "1.0.0"
