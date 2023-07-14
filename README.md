@@ -5,5 +5,16 @@
 
 <p align="center">
     <img alt="sudo boo meme" src=".github/img/boo.jpg"/>
-    <img alt="program demo" src=".github/img/demo.png"/>
+</p>
+
+## Installation
+
+```
+cargo install sudo-boo
+```
+
+## Usage
+
+<p align="center">
+    <img alt="program demo" src=".github/img/demo.avif"/>
 </p>
