@@ -1,6 +1,14 @@
 [package]
 name = "boo"
+description = "A program that scare users when running with root permission"
 version = "1.0.0"
 edition = "2021"
+license = "MIT"
+license-file = "LICENSE"
+keywords=["boo"]
+categories = ["command-line-utilities"]
+authors = ["developomp <developomp@gmail.com>"]
+repository = "https://github.com/developomp/boo"
+include = ["/src", "README.md"]
 
 [dependencies]
