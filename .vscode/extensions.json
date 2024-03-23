@@ -1,8 +1,7 @@
 {
-    "recommendations": [
-        "editorconfig.editorconfig",
-        "esbenp.prettier-vscode",
-        "matklad.rust-analyzer",
-        "panicbit.cargo"
-    ]
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "matklad.rust-analyzer",
+    "panicbit.cargo"
+  ]
 }
