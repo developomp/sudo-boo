@@ -2,6 +2,7 @@
 
 [![package version](https://img.shields.io/crates/v/sudo-boo?style=for-the-badge)](https://crates.io/crates/sudo-boo)
 [![downloads count](https://img.shields.io/crates/d/sudo-boo?style=for-the-badge)](https://crates.io/crates/sudo-boo)
+[![license](https://img.shields.io/github/license/developomp/sudo-boo?style=for-the-badge&color=yellow)](./LICENSE)
 
 <p align="center">
     <img alt="sudo boo meme" src=".github/img/boo.jpg"/>
